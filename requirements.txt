@@ -1,0 +1,14 @@
+asgiref==3.7.2
+certifi==2023.7.22
+charset-normalizer==3.2.0
+Django==4.2.4
+idna==3.4
+paho-mqtt==1.6.1
+peewee==3.16.3
+pip==22.3.1
+requests==2.31.0
+setuptools==65.5.0
+sqlparse==0.4.4
+tk==0.1.0
+tzdata==2023.3
+urllib3==2.0.4
